@@ -1,5 +1,5 @@
 //condition 
-let numberguest =14;
+let numberguest =5;
 let pizzsize;
 
 if (numberguest<=3){
